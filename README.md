@@ -35,7 +35,8 @@ Edit
 pip install pandas numpy matplotlib seaborn
 Open the Jupyter Notebook and start exploring the data.
 
-📈 Insights & Findings
+📈 Insights & Findings:
+
 Asia Kitchen By Mainland China,Spa Cuisine,Byg Brewski Brewing Company,Punjab Grill were the best rated Restaurants.
 
 Cafe Coffee Day, Onesta, Empire Restaurant, Just Bake ,Kanti sweets were the top restaurant chains.
