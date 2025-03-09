@@ -13,26 +13,35 @@ The dataset is sourced from Kaggle and contains details about restaurants in Ben
 
 🛠️ Key Objectives
 Data Cleaning: Handle missing values, duplicate entries, and format inconsistencies.
+
 Exploratory Data Analysis (EDA): Identify key trends, correlations, and outliers.
+
 Data Visualization: Use charts and graphs to present insights.
 
 🏗️ Tech Stack
 Python (Pandas, NumPy, Matplotlib, Seaborn)
+
 Jupyter Notebook
 
 📌 How to Use
 Clone this repository:
 
 Copy
+
 Edit
+
 git clone https://github.com/your-username/zomato-analysis.git
+
 cd zomato-analysis
 
 Install required libraries:
 
 Copy
+
 Edit
+
 pip install pandas numpy matplotlib seaborn
+
 Open the Jupyter Notebook and start exploring the data.
 
 📈 Insights & Findings:
