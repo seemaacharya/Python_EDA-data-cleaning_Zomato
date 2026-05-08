@@ -47,18 +47,29 @@ Open the Jupyter Notebook and start exploring the data.
 📈 Insights & Findings:
 
 Asia Kitchen By Mainland China,Spa Cuisine,Byg Brewski Brewing Company,Punjab Grill were the best rated Restaurants.
+
 Cafe Coffee Day, Onesta, Empire Restaurant, Just Bake ,Kanti sweets were the top restaurant chains.
+
 64.4% of resturants accept online orders where as 35.6% donot accept online orders.
+
 Based on most voted resaturants Byg Brewski Brewing Company and The Black Pearl were the best rated restaurants.
+
 Based on most voted resaturants Lazeez and Tandoor Hut were the worst rated restaurants.
+
 BTM, Koramangala 5th Block has the most numbers of restaurants.
+
 North Indian and Chinese were the top favourite of the people in Bangalore.
+
 Cost for 2 people for most restaurants was varing from 500 to 1000 bucks.
 
 💡 Recommendations:
+
 Expand online ordering support to improve customer reach.
+
 Focus promotions on high-demand cuisines and high-performing locations.
+
 Maintain pricing strategies within the ₹500–₹1000 customer spending segment.
+
 Improve service quality for low-rated restaurants to increase customer retention.
 
 PPT- https://docs.google.com/presentation/d/1I215ZD0x1VLyL6QXw7VIKnOrmIamXU3M/edit?usp=sharing&ouid=105626524576028316745&rtpof=true&sd=true
